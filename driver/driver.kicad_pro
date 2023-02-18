@@ -237,8 +237,8 @@
   "libraries": {
     "pinned_footprint_libs": [],
     "pinned_symbol_libs": [
-      "stepper_music_lib",
-      "bldc_lib"
+      "bldc_lib",
+      "stepper_music_lib"
     ]
   },
   "meta": {
